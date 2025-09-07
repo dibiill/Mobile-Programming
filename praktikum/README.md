@@ -13,7 +13,7 @@ Form: Nama, Umur, Alamat, Kontak
 Tombol Simpan → validasi → Navigator.pop kirim data  
 MainPage terima data dan tampilkan  
 
-Latihan 3:
+Latihan 3:  
 Gunakan data kontak mahasiswa  
 Tambah tombol Call di MainPage  
 Buka aplikasi telepon bawaan dengan nomor mahasiswa  
