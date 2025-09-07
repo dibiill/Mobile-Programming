@@ -1,16 +1,22 @@
-# praktikum
+Tugas Praktikum Mobile Programming Pertemuan 2  
+Latihan Flutter Navigation & External Activity
 
-A new Flutter project.
+Latihan 1:
+Buat halaman ProfilePage
+Tampilkan: Nama Aplikasi, Versi, Developer
+Tambah tombol di MainPage untuk navigasi
 
-## Getting Started
+Latihan 2:
+Buat halaman InputMahasiswaPage
+Form: Nama, Umur, Alamat, Kontak
+Tombol Simpan → validasi → Navigator.pop kirim data
+MainPage terima data dan tampilkan
 
-This project is a starting point for a Flutter application.
+Latihan 3:
+Gunakan data kontak mahasiswa
+Tambah tombol Call di MainPage
+Buka aplikasi telepon bawaan dengan nomor mahasiswa
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  Dina Nabil Ayyasy  
+  2310631250013  
+  5C - Sistem Informasi
